@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T12:27:26.744Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Q05hlM3e77_eWwBHZOJ5" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T05:15:17.598Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="h88kHpDeFeYpHeZfd5Uq" version="14.6.9" type="github">
   <diagram id="pwWLZ85O8fT9613ON62R" name="Page-1">
-    <mxGraphModel dx="450" dy="308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="LThBdGRPOBeAcR6cU0Bv-21" value="&lt;span style=&quot;font-size: 11px&quot;&gt;melakukan&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="735" y="350" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LThBdGRPOBeAcR6cU0Bv-22" value="Member" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LThBdGRPOBeAcR6cU0Bv-22" value="member" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="637" y="350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LThBdGRPOBeAcR6cU0Bv-27" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LThBdGRPOBeAcR6cU0Bv-9" target="LThBdGRPOBeAcR6cU0Bv-12" edge="1">
